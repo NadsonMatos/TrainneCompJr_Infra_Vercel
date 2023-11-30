@@ -59,3 +59,6 @@
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - Icons by [`phosphos-icons`](https://phosphoricons.com/)
+
+## Realização do Deploy
+
