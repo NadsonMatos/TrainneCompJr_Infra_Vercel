@@ -61,4 +61,9 @@
 - Icons by [`phosphos-icons`](https://phosphoricons.com/)
 
 ## Realização do Deploy
+ Após conhecer varias tecnologias para realizar o deploy,
+ escolhi fazer pelo vercel.
+ Basicamente fiz o login na plataforma, com meu github após isso importei o repositório com a aplicação que desejava fazer o deploy,
+logo a plataforma realizou toda a execução das atividades necessárias e me disponibilizou o link para minha aplicação.
 
+Link da aplicação após realização do deploy: https://trainne-comp-jr-infra-vercel-liv4.vercel.app/
